@@ -1,0 +1,1 @@
+C:\Repos\NutrioLab\NutrioLab\NutrioLab\NutrioLab.UWP\NutrioLab.UWP.csproj;x86
